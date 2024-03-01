@@ -4,7 +4,9 @@ using namespace std;
 int main()
 {
     string nome = "Giovana";
-    std::cout<<nome<< endl;
+    int idade = 17;
+    cout<<nome<< endl;
+    cout<<idade<< endl;
 
     return 0;
 }
